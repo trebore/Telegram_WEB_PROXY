@@ -1,4 +1,5 @@
-# setup-tproxy.sh
+Купить кофе автору:
+USDT(BNB) - 0x15c8ec6ef4e8d7343ddb4cc07c0f0e32d070fae7
 
 Скрипт для установки и обслуживания Telegram WEB proxy на сервере:
 
